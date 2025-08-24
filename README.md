@@ -46,10 +46,7 @@ ImageMaster Pro is a fast, no‑nonsense desktop app for **batch editing and con
 > Windows users: the app enables **high‑DPI awareness** so the UI looks crisp on 4K/HiDPI displays.
 
 ## User Interface
-
-_Add a screenshot of the main window here (e.g., `docs/screenshot.png`)._
-
----
+<img width="1594" height="1328" alt="Image Master_UI" src="https://github.com/user-attachments/assets/d2cb5302-20ae-476a-a5e5-c68fee9769d4" />
 
 ## Installation
 
